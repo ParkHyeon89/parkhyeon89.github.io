@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Park's Hyeongwan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""Hello World!""
   location         : "Earth-B0809"
   employer         : "Pukyoung University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pakrhyeon89@gmail.com" 
 
   # Academic websites
   academia         : # URL
